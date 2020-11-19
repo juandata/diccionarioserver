@@ -5,7 +5,13 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-openid-connect": "^2.0.0"
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.12"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
   }
 }
