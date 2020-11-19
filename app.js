@@ -4,6 +4,9 @@ const path = require("path");
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 var cors = require('cors');
+//const databaseUrl = "mongodb://localhost:27017/node-demo";
+const databaseUrl = 'mongodb://juandata:mimosin8@ds227119.mlab.com:27119/transportadorasapp';
+
 
 //const connectToMongoDb = require('./connectToMongoDb');
 
@@ -18,7 +21,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 //connection to MongoDB
 mongoose.Promise = global.Promise;
-mongoose.connect("mongodb://localhost:27017/node-demo", {useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect(databaseUrl, {useNewUrlParser: true, useUnifiedTopology: true });
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
