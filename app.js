@@ -15,7 +15,9 @@ const schemas = require('./schemas')
 
 require('dotenv').config();
 app.use(cors());
-app.use(express.static(path.join(__dirname + "/build/")));
+const publicPath = path.join(__dirname, '/build');
+app.use(express.static(publicPath));
+app.use('*', express.static(publicPath));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -34,6 +36,8 @@ app.get('/', (req, res)=>{
   res.send('welcome to home page')
 
 });*/
+
+
 app.get('/login', (req, res)=>{
   res.send('login');
 });
