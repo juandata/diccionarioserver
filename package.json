@@ -14,5 +14,5 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "engines" : { "node" : ">=12.19.1" }
+  "engines" : { "node" : "12.19.1" }
 }
