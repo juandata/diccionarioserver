@@ -3,7 +3,7 @@ const app = express();
 const path = require("path");
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const cors = require('cors');
+//const cors = require('cors');
 //const databaseUrl = "mongodb://localhost:27017/node-demo";
 const databaseUrl = 'mongodb://juandata:mimosin8@ds227119.mlab.com:27119/transportadorasapp';
 
@@ -14,7 +14,7 @@ const databaseUrl = 'mongodb://juandata:mimosin8@ds227119.mlab.com:27119/transpo
 const schemas = require('./schemas')
 
 require('dotenv').config();
-app.use(cors());
+//app.use(cors());
 const publicPath = path.join(__dirname, '/build');
 app.use(express.static(publicPath));
 app.use('*', express.static(publicPath + '/index.html'));
