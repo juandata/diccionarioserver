@@ -30,7 +30,7 @@ db.once('open', function() {
   // we're connected!
   console.log('estamos conectados a la base de datos');
 });
-
+console.log(publicPath)
 app.get('/', (req, res)=>{
 
   res.sendFile(publicPath + '/index.html')
