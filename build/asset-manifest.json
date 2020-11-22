@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.d5117955.chunk.css",
-    "main.js": "/static/js/main.e0b495b2.chunk.js",
-    "main.js.map": "/static/js/main.e0b495b2.chunk.js.map",
+    "main.js": "/static/js/main.8ca8415f.chunk.js",
+    "main.js.map": "/static/js/main.8ca8415f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c0af92d2.js",
     "runtime-main.js.map": "/static/js/runtime-main.c0af92d2.js.map",
-    "static/js/2.1418e674.chunk.js": "/static/js/2.1418e674.chunk.js",
-    "static/js/2.1418e674.chunk.js.map": "/static/js/2.1418e674.chunk.js.map",
+    "static/js/2.bad36121.chunk.js": "/static/js/2.bad36121.chunk.js",
+    "static/js/2.bad36121.chunk.js.map": "/static/js/2.bad36121.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.560129c4733ca0ee1594dc1e46c49a7a.js": "/precache-manifest.560129c4733ca0ee1594dc1e46c49a7a.js",
+    "precache-manifest.0ab3f360c47867771c677cc3b7a38353.js": "/precache-manifest.0ab3f360c47867771c677cc3b7a38353.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d5117955.chunk.css.map": "/static/css/main.d5117955.chunk.css.map",
-    "static/js/2.1418e674.chunk.js.LICENSE.txt": "/static/js/2.1418e674.chunk.js.LICENSE.txt",
+    "static/js/2.bad36121.chunk.js.LICENSE.txt": "/static/js/2.bad36121.chunk.js.LICENSE.txt",
     "static/media/LogoHorenvios.jpg": "/static/media/LogoHorenvios.423c3c7f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c0af92d2.js",
-    "static/js/2.1418e674.chunk.js",
+    "static/js/2.bad36121.chunk.js",
     "static/css/main.d5117955.chunk.css",
-    "static/js/main.e0b495b2.chunk.js"
+    "static/js/main.8ca8415f.chunk.js"
   ]
 }
