@@ -17,7 +17,7 @@ require('dotenv').config();
 app.use(cors());
 const publicPath = path.join(__dirname, '/build');
 app.use(express.static(publicPath));
-//app.use('*', express.static(publicPath + '/index.html'));
+app.use('*', express.static(publicPath + '/index.html'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
@@ -30,14 +30,12 @@ db.once('open', function() {
   // we're connected!
   console.log('estamos conectados a la base de datos');
 });
-console.log(publicPath)
-app.get('/', (req, res)=>{
+console.log(publicPath);
+/*app.get('/', (req, res)=>{
 
   res.sendFile(publicPath + '/index.html')
 
-});
-
-
+});*/
 app.get('/login', (req, res)=>{
   res.send('login');
 });
