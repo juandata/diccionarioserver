@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 //const databaseUrl = "mongodb://localhost:27017/node-demo";
 const databaseUrl = 'mongodb://juandata:mimosin8@ds227119.mlab.com:27119/transportadorasapp';
-
+//nuevos cambios
 
 //const connectToMongoDb = require('./connectToMongoDb');
 
