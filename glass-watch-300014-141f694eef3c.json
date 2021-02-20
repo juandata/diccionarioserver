@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glass-watch-300014",
+  "private_key_id": "141f694eef3c051e2729023a085a59abc9710e0a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjYIjcyEfbJSKq\nXYbg35jgP4OkO1rPM8p8OZwG/+LxwqR27LwNP7C0R7GqgRf9rjGKURMOhQCUvqkW\nCZC77oS2rHA6vL+fO0gZJEllFeFJwQMCkq5Skk88aRk+SmUuaPLKDEJBMqvfNIyv\nZL1Ju/fb8u/3mtzGLK5P/WceyOcLoWQgsCJnoOsKQffRddHcwD3AHn31e3bd+MPJ\nK4UTp4k2nIYe8YxFToOvGPzyUHtXbA+AJ1uTcB7IBtkyisg30acmXqNds5NW9Esx\nWKpitMIlWHx07fIscNXOrDNcDNbL1KSGyDSqbacl2q4RtUdJ+enJlVANHcI6U5dI\nF7v+fq1ZAgMBAAECggEAE72GJ+wcr4xQARcCJTFrJLxT5QAFd8f9mS8yTK+2LYk7\ny0FNMwodKRlJDK2itxSJOJnVdEGKiY50enzPI7/9Ad/5wwUbn6sfaedGJXxEb3+O\nZC0SOliikY1u3wWI7nfAjzx2NG/Bj9uG/KnOy8YWG5nB2DB6aMkNCk33W+NBNHi7\nFfNbQRA11FgEDfnOA7NhaibiOWn3qZlAofSXuM6i8VHizvVzdeLZJLh4UrPOPM7S\nz8nOCL4KKxf4jh5X/HQuyQ93gGmxYSMwsnf9TTpFR/u4Vff44eeldtNuWlKCwbIK\niFS2QESAhrPK5MwZJdsiogK07Y7pz9x0YvdxthUJYQKBgQDXdjLEQQcyzFk/wQ3N\nURQNJCfO6m1OlpLRqBvRONkT8Kp/fVQoeZd9DSQXShtCM2ra8KXhhJlq2kCoGqaA\n6nuqENrrPn8gXPbDv2BXTu4YL329EvQbk7qbVWNML5RzN1GZt419f81lfPXRF2Th\nGB7H/gwEUi2BO0yV5AUseO2VIQKBgQDCHai32pJ/ZuUY8A/TMgg8BTA6pEJxVwcm\ncU93KRlx4ld8X7pyrzYMjPalPo2WhNLWfPQNSkLAtebCHh0/JD2Pezy3CeoBrW/7\nioBnb/m+Qjs5A47DCZptATDHqTtQLiEBdmbpERYLkzcc3WFH2gBToyu89iZdTJ/H\njZimoMBZOQKBgQCv5EkrV57FxHaziil3TFIfLD3nOA9F0bxHtYIH+e2UzqqRa0HR\nzPlzV8/3x0Kbd5gq5bu1b+dCiKux0BfPNB0CR8I/uwRS6jF0uX2vqLrMObDfMmLf\nRGlZN4rZfholOKq/3019f2CxEiMmr39mFqfCQk2TFXcagctSrhPfK1VgoQKBgBLc\njuhOdK2scdZafS8oTWSHnIgWLd6VdjxmBjKt66sFMzsCkjtSiw3tJIop6dgWT+ZH\nfe9Mp+/RvPpfsrfP7atjbiLa88H1+EuYyaFDYCD8joSbs+N/q2GsG/FKoFjKIqrh\ntl4vKtU1GMXVPP6eUCnQUQ+rW071gxEA0TRfqlEBAoGBALF/x84Q6I8lJ8+1GSq+\ntaLTkmogonTFpMOc59ysF0YY2kRckkzYE1xJgZIDk9qSxMjRJrn0RDQyDjPi/p/2\nI1qMMaN/qaIw9cLcGYrprIPjq8oPT+28aJlmQeZuz7BkBZz9CQsKMTUiPpiytERQ\nOyLxXj1YdjOUzC+/WvIr/uO6\n-----END PRIVATE KEY-----\n",
+  "client_email": "traductorembera@glass-watch-300014.iam.gserviceaccount.com",
+  "client_id": "105935870496695811915",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/traductorembera%40glass-watch-300014.iam.gserviceaccount.com"
+}

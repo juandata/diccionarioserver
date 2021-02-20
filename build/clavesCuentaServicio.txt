@@ -1,0 +1,5 @@
+
+https://cloud.google.com/translate/automl/docs/before-you-begin?authuser=1
+
+export GOOGLE_APPLICATION_CREDENTIALS=key-file
+export PROJECT_ID=your-project-id
